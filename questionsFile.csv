@@ -1,0 +1,35 @@
+History,When did WW2 end?,1918,1940,1945,1944,2
+History,Who was the first president of the USA?,Abraham Lincoln,George Washington,James Monroe,John Adams,1
+History,When did the Athens Polytechnic uprising occur?,1967,1969,1971,1973,3
+History,When did Greece join the European Union?,1981,1984,1994,2002,0
+History,Who was elected as Prime Minister of Greece in 2015?,Konstantinos Karamanlis,Georgios Papandreou,Antonis Samaras,Alexis Tsipras,3
+History,What is the name of the person in the picture?,John F. Kennedy,Winston Churchill,Martin Luther King,Joseph Stalin,0,images/kennedy.jpg
+History, What is the name of the monument in the picture?,Acropolis,Big Ben,Eiffel Tower,Arc de Triomphe,0,images/acropolis.jpg
+Sports,When did Greece win the European Cup in football?,1984,1994,2004,2005,2
+Sports,What is the name of the football team with the most European Trophies?,Real Madrid,Bayern Munich,Barcelona,Liverpool,0
+Sports,What team has the most Greek Basketball League titles?,Aris,AEK,Olympiacos,Panathinaikos,3
+Sports,What is the name of the football player with the most Ballon d'Or wins?,Ronaldinho,Lionel Messi,Cristiano Ronaldo,Zinedin Zidan,1
+Sports,Who is the NBA player with the most points in a single game?,Kobe Bryant,Michael Jordan,Wilt Chmberlain,LeBron James,2
+Sports,What is the name of the football player in the picture?,Lionel Messi,Pele,Diego Maradona,Ronaldo,2,images/maradona.jpg
+Maths,Given the equation x = 2x + 1 what's the correct value of x?,0,0.5,-1,-2,2
+Maths,What's the value of x so that lnx = 0?,0,1,e,π,1
+Maths,Which is correct for Pythagoras theorem?,c^2 = a^2 + b^2,c = a + b,c^2 = a^2 - b^2,2c = a + b,0
+Maths,Let y = x + 1 be a line. Which of the following points is upon the line?,x = 0 y = 0,x = 2 y = 1,x = 1 y = 1,x = -1 y = 0,3
+Maths,Which of the following is correct?,e > π,π is approximately 2.14,e is approximately 2.718,π = 2e,2
+Geography,What's the name of the most populated country in the world?,China,India,Russia,USA,0
+Geography,What's the name of the most populated city in the world?,Delhi,New York,Tokyo,Shangai,2
+Geography,What's the name of the highest mountain in the world?,Makalu,K2,Olympus,Mount Everest,3
+Geography,How many states are there in the USA?,50,48,56,52,0
+Geography,How many countries are there in Europe?,31,37,44,63,2
+Music,What's the best selling music album of all time?,Back in Black - AC/DC,Thriller - Michael Jackson,The Wall - Pink Floyd,Bad - Michael Jackson,1
+Music,What's the name of the artist/band with the highest-grossing tour of all time?,U2,Ed Sheeran,Guns N' Roses,The Rolling Stones,1
+Music,Who is also known as the "King of Blues"?,Eric Clapton,Robert Johnson,Stevie Ray Vaughan,B.B King,3
+Music,When did The Beatles break up?,1960,1965,1970,1974,2
+Music,When did Jimmy Hendrix die?,1985,1970,1972,1979,1
+Music,What is the name of the musician in the picture?,Freddie Mercury,Bob Dylan,Ringo,John Lennon,0,images/mercury.jpg
+Music, What is the name of the musician in the picture?, Bach, Beethoven, Eminem, Mozart,1,images/beethoven.jpg
+Science,When did Albert Einstein die?,1955,1945,1966,1961,0
+Science,Who discovered penicillin?,Louis Paster,Albert Einstein,Alexander Fleming,Nikola Tesla,2
+Science,Who is considered to be the "Father of Mathematics"?,Archimedes,Leonhard Euler,Pythagoras,Isaac Newton,0
+Science,"And yet it moves" (referring to the Earth) is a phrase attributed to...?,Isaac Newton,Charles Darwin,Leonardo Da Vinci,Galileo Galilei,3
+Science,By whom was the theory of relativity introduced?,Erwin Schrodinger,Albert Einstein,Richard Feynman,Stephen Hawking,1
